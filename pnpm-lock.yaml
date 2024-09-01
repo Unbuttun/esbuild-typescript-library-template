@@ -24,8 +24,8 @@ importers:
         specifier: ^1.6.18
         version: 1.7.14
       tslib:
-        specifier: 2.6.3
-        version: 2.6.3
+        specifier: 2.7.0
+        version: 2.7.0
       tsup:
         specifier: 8.1.0
         version: 8.1.0(postcss@8.4.39)(ts-node@10.9.2(@types/node@20.16.2)(typescript@5.5.4))(typescript@5.5.4)
@@ -1163,8 +1163,8 @@ packages:
       '@swc/wasm':
         optional: true
 
-  tslib@2.6.3:
-    resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
+  tslib@2.7.0:
+    resolution: {integrity: sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==}
 
   tsup@8.1.0:
     resolution: {integrity: sha512-UFdfCAXukax+U6KzeTNO2kAARHcWxmKsnvSPXUcfA1D+kU05XDccCrkffCQpFaWDsZfV0jMyTsxU39VfCp6EOg==}
@@ -2252,7 +2252,7 @@ snapshots:
       yn: 3.1.1
     optional: true
 
-  tslib@2.6.3: {}
+  tslib@2.7.0: {}
 
   tsup@8.1.0(postcss@8.4.39)(ts-node@10.9.2(@types/node@20.16.2)(typescript@5.5.4))(typescript@5.5.4):
     dependencies:
